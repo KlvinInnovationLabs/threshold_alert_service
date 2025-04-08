@@ -1,0 +1,1326 @@
+[2025-03-05 16:25:07] 
+Processing 15 warning breaches
+[2025-03-05 16:25:07] 
+Breach 1: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 16:25:07] 
+Breach 2: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 16:25:07] 
+Breach 3: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 16:25:07] 
+Breach 4: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 16:25:07] 
+Breach 5: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 16:25:07] 
+Breach 6: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 16:25:07] 
+Breach 7: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 16:25:07] 
+Breach 8: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 16:25:07] 
+Breach 9: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 16:25:07] 
+Breach 10: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 16:25:07] 
+Breach 11: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 16:25:07] 
+Breach 12: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 16:25:07] 
+Breach 13: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 16:25:07] 
+Breach 14: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 16:25:07] 
+Breach 15: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 16:25:07] 
+Inside process_breaches
+[2025-03-05 16:28:24] 
+Processing 16 warning breaches
+[2025-03-05 16:28:24] 
+Breach 1: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 16:28:24] 
+Breach 2: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 16:28:24] 
+Breach 3: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 16:28:24] 
+Breach 4: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 16:28:24] 
+Breach 5: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 16:28:24] 
+Breach 6: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 16:28:24] 
+Breach 7: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 16:28:24] 
+Breach 8: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 16:28:24] 
+Breach 9: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 16:28:24] 
+Breach 10: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 16:28:24] 
+Breach 11: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 16:28:24] 
+Breach 12: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 16:28:24] 
+Breach 13: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 16:28:24] 
+Breach 14: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 16:28:24] 
+Breach 15: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 16:28:24] 
+Breach 16: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 16:28:24] 
+Inside process_breaches
+[2025-03-05 16:30:12] 
+Processing 15 warning breaches
+[2025-03-05 16:30:12] 
+Breach 1: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 16:30:12] 
+Breach 2: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 16:30:12] 
+Breach 3: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 16:30:12] 
+Breach 4: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 16:30:12] 
+Breach 5: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 16:30:12] 
+Breach 6: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 16:30:12] 
+Breach 7: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 16:30:12] 
+Breach 8: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 16:30:12] 
+Breach 9: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 16:30:12] 
+Breach 10: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 16:30:12] 
+Breach 11: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 16:30:12] 
+Breach 12: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 16:30:12] 
+Breach 13: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 16:30:12] 
+Breach 14: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 16:30:12] 
+Breach 15: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 16:30:12] 
+Inside process_breaches
+[2025-03-05 16:31:30] 
+Processing 15 warning breaches
+[2025-03-05 16:31:30] 
+Breach 1: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 16:31:30] 
+Breach 2: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 16:31:30] 
+Breach 3: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 16:31:30] 
+Breach 4: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 16:31:30] 
+Breach 5: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 16:31:30] 
+Breach 6: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 16:31:30] 
+Breach 7: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 16:31:30] 
+Breach 8: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 16:31:30] 
+Breach 9: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 16:31:30] 
+Breach 10: Device=JKFL001, Sensor=4, Type=orange
+[2025-03-05 16:31:30] 
+Breach 11: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 16:31:30] 
+Breach 12: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 16:31:30] 
+Breach 13: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 16:31:30] 
+Breach 14: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 16:31:30] 
+Breach 15: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 16:31:30] 
+Inside process_breaches
+[2025-03-05 17:27:55] 
+Processing 17 warning breaches
+[2025-03-05 17:27:55] 
+Breach 1: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:27:55] 
+Breach 2: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:27:55] 
+Breach 3: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:27:55] 
+Breach 4: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:27:55] 
+Breach 5: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:27:55] 
+Breach 6: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:27:55] 
+Breach 7: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:27:55] 
+Breach 8: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:27:55] 
+Breach 9: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:27:55] 
+Breach 10: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:27:55] 
+Breach 11: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:27:55] 
+Breach 12: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:27:55] 
+Breach 13: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:27:55] 
+Breach 14: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:27:55] 
+Breach 15: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:27:55] 
+Breach 16: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:27:55] 
+Breach 17: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:27:55] 
+Inside process_breaches
+[2025-03-05 17:28:05] 
+Processing 14 warning breaches
+[2025-03-05 17:28:05] 
+Breach 1: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:28:05] 
+Breach 2: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:05] 
+Breach 3: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:05] 
+Breach 4: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:05] 
+Breach 5: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:05] 
+Breach 6: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:05] 
+Breach 7: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:05] 
+Breach 8: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:05] 
+Breach 9: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:05] 
+Breach 10: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:05] 
+Breach 11: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:05] 
+Breach 12: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:05] 
+Breach 13: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:05] 
+Breach 14: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:05] 
+Inside process_breaches
+[2025-03-05 17:28:15] 
+Processing 18 warning breaches
+[2025-03-05 17:28:15] 
+Breach 1: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:28:15] 
+Breach 2: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:15] 
+Breach 3: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:15] 
+Breach 4: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:15] 
+Breach 5: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:15] 
+Breach 6: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 17:28:15] 
+Breach 7: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:15] 
+Breach 8: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:15] 
+Breach 9: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:15] 
+Breach 10: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:15] 
+Breach 11: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:28:15] 
+Breach 12: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:15] 
+Breach 13: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:15] 
+Breach 14: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:15] 
+Breach 15: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:15] 
+Breach 16: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:15] 
+Breach 17: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:28:15] 
+Breach 18: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:15] 
+Inside process_breaches
+[2025-03-05 17:28:25] 
+Processing 15 warning breaches
+[2025-03-05 17:28:25] 
+Breach 1: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:25] 
+Breach 2: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:25] 
+Breach 3: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:25] 
+Breach 4: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:25] 
+Breach 5: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:25] 
+Breach 6: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:28:25] 
+Breach 7: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:25] 
+Breach 8: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:25] 
+Breach 9: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:25] 
+Breach 10: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:25] 
+Breach 11: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:28:25] 
+Breach 12: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:25] 
+Breach 13: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:25] 
+Breach 14: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:25] 
+Breach 15: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:25] 
+Inside process_breaches
+[2025-03-05 17:28:35] 
+Processing 19 warning breaches
+[2025-03-05 17:28:35] 
+Breach 1: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:35] 
+Breach 2: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 17:28:35] 
+Breach 3: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:28:35] 
+Breach 4: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:35] 
+Breach 5: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:35] 
+Breach 6: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:35] 
+Breach 7: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:35] 
+Breach 8: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:35] 
+Breach 9: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:35] 
+Breach 10: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:35] 
+Breach 11: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:28:35] 
+Breach 12: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:35] 
+Breach 13: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:35] 
+Breach 14: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:35] 
+Breach 15: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 17:28:35] 
+Breach 16: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:35] 
+Breach 17: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:28:35] 
+Breach 18: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:35] 
+Breach 19: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:35] 
+Inside process_breaches
+[2025-03-05 17:28:45] 
+Processing 16 warning breaches
+[2025-03-05 17:28:45] 
+Breach 1: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:45] 
+Breach 2: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:45] 
+Breach 3: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:28:45] 
+Breach 4: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:45] 
+Breach 5: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 17:28:45] 
+Breach 6: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:45] 
+Breach 7: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:45] 
+Breach 8: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:45] 
+Breach 9: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:45] 
+Breach 10: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:45] 
+Breach 11: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:45] 
+Breach 12: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:45] 
+Breach 13: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:45] 
+Breach 14: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:28:45] 
+Breach 15: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:45] 
+Breach 16: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:45] 
+Inside process_breaches
+[2025-03-05 17:28:55] 
+Processing 20 warning breaches
+[2025-03-05 17:28:55] 
+Breach 1: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:55] 
+Breach 2: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:55] 
+Breach 3: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:28:55] 
+Breach 4: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:55] 
+Breach 5: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:55] 
+Breach 6: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 17:28:55] 
+Breach 7: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:55] 
+Breach 8: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:55] 
+Breach 9: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:28:55] 
+Breach 10: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:55] 
+Breach 11: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:55] 
+Breach 12: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:55] 
+Breach 13: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 17:28:55] 
+Breach 14: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:28:55] 
+Breach 15: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:55] 
+Breach 16: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:55] 
+Breach 17: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:28:55] 
+Breach 18: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:28:55] 
+Breach 19: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:28:55] 
+Breach 20: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:28:55] 
+Inside process_breaches
+[2025-03-05 17:29:05] 
+Processing 19 warning breaches
+[2025-03-05 17:29:05] 
+Breach 1: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:29:05] 
+Breach 2: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:29:05] 
+Breach 3: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:29:05] 
+Breach 4: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:29:05] 
+Breach 5: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:29:05] 
+Breach 6: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:29:05] 
+Breach 7: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:29:05] 
+Breach 8: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:29:05] 
+Breach 9: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:29:05] 
+Breach 10: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:29:05] 
+Breach 11: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:29:05] 
+Breach 12: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 17:29:05] 
+Breach 13: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:29:05] 
+Breach 14: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:29:05] 
+Breach 15: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:29:05] 
+Breach 16: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:29:05] 
+Breach 17: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:29:05] 
+Breach 18: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:29:05] 
+Breach 19: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:29:05] 
+Inside process_breaches
+[2025-03-05 17:29:15] 
+Processing 14 warning breaches
+[2025-03-05 17:29:15] 
+Breach 1: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:29:15] 
+Breach 2: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:29:15] 
+Breach 3: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:29:15] 
+Breach 4: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:29:15] 
+Breach 5: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:29:15] 
+Breach 6: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:29:15] 
+Breach 7: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:29:15] 
+Breach 8: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:29:15] 
+Breach 9: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:29:15] 
+Breach 10: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:29:15] 
+Breach 11: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:29:15] 
+Breach 12: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:29:15] 
+Breach 13: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:29:15] 
+Breach 14: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:29:15] 
+Inside process_breaches
+[2025-03-05 17:29:25] 
+Processing 19 warning breaches
+[2025-03-05 17:29:25] 
+Breach 1: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:29:25] 
+Breach 2: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:29:25] 
+Breach 3: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:29:25] 
+Breach 4: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:29:25] 
+Breach 5: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:29:25] 
+Breach 6: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:29:25] 
+Breach 7: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 17:29:25] 
+Breach 8: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:29:25] 
+Breach 9: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:29:25] 
+Breach 10: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:29:25] 
+Breach 11: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:29:25] 
+Breach 12: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:29:25] 
+Breach 13: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:29:25] 
+Breach 14: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:29:25] 
+Breach 15: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:29:25] 
+Breach 16: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:29:25] 
+Breach 17: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:29:25] 
+Breach 18: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:29:25] 
+Breach 19: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:29:25] 
+Inside process_breaches
+[2025-03-05 17:29:42] 
+Processing 15 warning breaches
+[2025-03-05 17:29:42] 
+Breach 1: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:29:42] 
+Breach 2: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:29:42] 
+Breach 3: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:29:42] 
+Breach 4: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:29:42] 
+Breach 5: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:29:42] 
+Breach 6: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:29:42] 
+Breach 7: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 17:29:42] 
+Breach 8: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:29:42] 
+Breach 9: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:29:42] 
+Breach 10: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:29:42] 
+Breach 11: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:29:42] 
+Breach 12: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:29:42] 
+Breach 13: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:29:42] 
+Breach 14: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:29:42] 
+Breach 15: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:29:42] 
+Inside process_breaches
+[2025-03-05 17:29:42] 
+Sending email to ['maint@jkfenner.com'] with 5 breaches
+[2025-03-05 17:29:42] 
+
+ Inside send_email
+
+[2025-03-05 17:30:38] 
+Processing 14 warning breaches
+[2025-03-05 17:30:38] 
+Breach 1: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:30:38] 
+Breach 2: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:30:38] 
+Breach 3: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:30:38] 
+Breach 4: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:30:38] 
+Breach 5: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:30:38] 
+Breach 6: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:30:38] 
+Breach 7: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:30:38] 
+Breach 8: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 17:30:38] 
+Breach 9: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:30:38] 
+Breach 10: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:30:38] 
+Breach 11: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:30:38] 
+Breach 12: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:30:38] 
+Breach 13: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:30:38] 
+Breach 14: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:30:38] 
+Inside process_breaches
+[2025-03-05 17:30:38] 
+Sending email to ['maint@jkfenner.com'] with 5 breaches
+[2025-03-05 17:30:38] 
+
+ Inside send_email
+
+[2025-03-05 17:30:42] 
+Email sent successfully
+[2025-03-05 17:30:42] 
+Sending email to ['gurram.balachandrudu@jkfenner.com'] with 2 breaches
+[2025-03-05 17:30:42] 
+
+ Inside send_email
+
+[2025-03-05 17:30:45] 
+Email sent successfully
+[2025-03-05 17:45:30] 
+Processing 15 warning breaches
+[2025-03-05 17:45:30] 
+Breach 1: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:45:30] 
+Breach 2: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:45:30] 
+Breach 3: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:45:30] 
+Breach 4: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:45:30] 
+Breach 5: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:45:30] 
+Breach 6: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:45:30] 
+Breach 7: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:45:30] 
+Breach 8: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:45:30] 
+Breach 9: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:45:30] 
+Breach 10: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:45:30] 
+Breach 11: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:45:30] 
+Breach 12: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 17:45:30] 
+Breach 13: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 17:45:30] 
+Breach 14: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 17:45:30] 
+Breach 15: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 17:45:30] 
+Inside process_breaches
+[2025-03-05 17:45:30] 
+Sending email to ['maint@jkfenner.com'] with 4 breaches
+[2025-03-05 17:45:30] 
+
+ Inside send_email
+
+[2025-03-05 17:45:33] 
+Email sent successfully
+[2025-03-05 17:45:33] 
+Sending email to ['gurram.balachandrudu@jkfenner.com'] with 1 breaches
+[2025-03-05 17:45:33] 
+
+ Inside send_email
+
+[2025-03-05 17:45:37] 
+Email sent successfully
+[2025-03-05 18:56:32] 
+Processing 16 warning breaches
+[2025-03-05 18:56:32] 
+Breach 1: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 18:56:32] 
+Breach 2: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 18:56:32] 
+Breach 3: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 18:56:32] 
+Breach 4: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 18:56:32] 
+Breach 5: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 18:56:32] 
+Breach 6: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 18:56:32] 
+Breach 7: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 18:56:32] 
+Breach 8: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 18:56:32] 
+Breach 9: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 18:56:32] 
+Breach 10: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 18:56:32] 
+Breach 11: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 18:56:32] 
+Breach 12: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 18:56:32] 
+Breach 13: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 18:56:32] 
+Breach 14: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 18:56:32] 
+Breach 15: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 18:56:32] 
+Breach 16: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 18:56:32] 
+Inside process_breaches
+[2025-03-05 18:56:32] 
+Sending email to ['maint@jkfenner.com'] with 5 breaches
+[2025-03-05 18:56:32] 
+
+ Inside send_email
+
+[2025-03-05 18:56:37] 
+Email sent successfully
+[2025-03-05 18:56:37] 
+Sending email to ['gurram.balachandrudu@jkfenner.com'] with 2 breaches
+[2025-03-05 18:56:37] 
+
+ Inside send_email
+
+[2025-03-05 18:56:41] 
+Email sent successfully
+[2025-03-05 18:57:04] 
+Processing 17 warning breaches
+[2025-03-05 18:57:04] 
+Breach 1: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 18:57:04] 
+Breach 2: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 18:57:04] 
+Breach 3: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 18:57:04] 
+Breach 4: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 18:57:04] 
+Breach 5: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 18:57:04] 
+Breach 6: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 18:57:04] 
+Breach 7: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 18:57:04] 
+Breach 8: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 18:57:04] 
+Breach 9: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 18:57:04] 
+Breach 10: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 18:57:04] 
+Breach 11: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 18:57:04] 
+Breach 12: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 18:57:04] 
+Breach 13: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 18:57:04] 
+Breach 14: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 18:57:04] 
+Breach 15: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 18:57:04] 
+Breach 16: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 18:57:04] 
+Breach 17: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 18:57:04] 
+Inside process_breaches
+[2025-03-05 18:57:04] 
+Sending email to ['maint@jkfenner.com'] with 5 breaches
+[2025-03-05 18:57:04] 
+
+ Inside send_email
+
+[2025-03-05 19:07:22] 
+Processing 14 warning breaches
+[2025-03-05 19:07:22] 
+Breach 1: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:07:22] 
+Breach 2: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:07:22] 
+Breach 3: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:07:22] 
+Breach 4: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:07:22] 
+Breach 5: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:07:22] 
+Breach 6: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:07:22] 
+Breach 7: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:07:22] 
+Breach 8: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:07:22] 
+Breach 9: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:07:22] 
+Breach 10: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:07:22] 
+Breach 11: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:07:22] 
+Breach 12: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:07:22] 
+Breach 13: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:07:22] 
+Breach 14: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:07:22] 
+Inside process_breaches
+[2025-03-05 19:07:22] 
+Sending email to ['maint@jkfenner.com'] with 4 breaches
+[2025-03-05 19:07:22] 
+
+ Inside send_email
+
+[2025-03-05 19:07:26] 
+Email sent successfully
+[2025-03-05 19:07:26] 
+Sending email to ['gurram.balachandrudu@jkfenner.com'] with 1 breaches
+[2025-03-05 19:07:26] 
+
+ Inside send_email
+
+[2025-03-05 19:07:29] 
+Email sent successfully
+[2025-03-05 19:07:39] 
+Processing 29 warning breaches
+[2025-03-05 19:07:39] 
+Breach 1: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:07:39] 
+Breach 2: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:07:39] 
+Breach 3: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:07:39] 
+Breach 4: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:07:39] 
+Breach 5: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:07:39] 
+Breach 6: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:07:39] 
+Breach 7: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 19:07:39] 
+Breach 8: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:07:39] 
+Breach 9: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:07:39] 
+Breach 10: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:07:39] 
+Breach 11: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:07:39] 
+Breach 12: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:07:39] 
+Breach 13: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:07:39] 
+Breach 14: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:07:39] 
+Breach 15: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:07:39] 
+Breach 16: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:07:39] 
+Breach 17: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:07:39] 
+Breach 18: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:07:39] 
+Breach 19: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:07:39] 
+Breach 20: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:07:39] 
+Breach 21: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:07:39] 
+Breach 22: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:07:39] 
+Breach 23: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:07:39] 
+Breach 24: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:07:39] 
+Breach 25: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 19:07:39] 
+Breach 26: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:07:39] 
+Breach 27: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:07:39] 
+Breach 28: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:07:39] 
+Breach 29: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:07:39] 
+Inside process_breaches
+[2025-03-05 19:07:39] 
+Sending email to ['maint@jkfenner.com'] with 5 breaches
+[2025-03-05 19:07:39] 
+
+ Inside send_email
+
+[2025-03-05 19:07:42] 
+Email sent successfully
+[2025-03-05 19:07:42] 
+Sending email to ['gurram.balachandrudu@jkfenner.com'] with 2 breaches
+[2025-03-05 19:07:42] 
+
+ Inside send_email
+
+[2025-03-05 19:07:46] 
+Email sent successfully
+[2025-03-05 19:07:56] 
+Processing 27 warning breaches
+[2025-03-05 19:07:56] 
+Breach 1: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 2: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 3: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 4: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 5: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 6: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 7: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:07:56] 
+Breach 8: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 9: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 10: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 11: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 12: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 19:07:56] 
+Breach 13: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:07:56] 
+Breach 14: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 15: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 16: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 17: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 18: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 19: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 20: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 21: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 22: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 23: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 24: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 25: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 26: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:07:56] 
+Breach 27: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:07:56] 
+Inside process_breaches
+[2025-03-05 19:07:56] 
+Sending email to ['maint@jkfenner.com'] with 5 breaches
+[2025-03-05 19:07:56] 
+
+ Inside send_email
+
+[2025-03-05 19:07:59] 
+Email sent successfully
+[2025-03-05 19:07:59] 
+Sending email to ['gurram.balachandrudu@jkfenner.com'] with 2 breaches
+[2025-03-05 19:07:59] 
+
+ Inside send_email
+
+[2025-03-05 19:08:03] 
+Email sent successfully
+[2025-03-05 19:08:13] 
+Processing 29 warning breaches
+[2025-03-05 19:08:13] 
+Breach 1: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:13] 
+Breach 2: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:08:13] 
+Breach 3: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:13] 
+Breach 4: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:08:13] 
+Breach 5: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:13] 
+Breach 6: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:08:13] 
+Breach 7: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:13] 
+Breach 8: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:13] 
+Breach 9: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:08:13] 
+Breach 10: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:13] 
+Breach 11: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:08:13] 
+Breach 12: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:13] 
+Breach 13: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:08:13] 
+Breach 14: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:13] 
+Breach 15: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:13] 
+Breach 16: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:08:13] 
+Breach 17: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:13] 
+Breach 18: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 19:08:13] 
+Breach 19: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:13] 
+Breach 20: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:08:13] 
+Breach 21: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:13] 
+Breach 22: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:13] 
+Breach 23: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:08:13] 
+Breach 24: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:08:13] 
+Breach 25: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:13] 
+Breach 26: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 19:08:13] 
+Breach 27: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:13] 
+Breach 28: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:08:13] 
+Breach 29: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:13] 
+Inside process_breaches
+[2025-03-05 19:08:13] 
+Sending email to ['maint@jkfenner.com'] with 5 breaches
+[2025-03-05 19:08:13] 
+
+ Inside send_email
+
+[2025-03-05 19:08:16] 
+Email sent successfully
+[2025-03-05 19:08:16] 
+Sending email to ['gurram.balachandrudu@jkfenner.com'] with 2 breaches
+[2025-03-05 19:08:16] 
+
+ Inside send_email
+
+[2025-03-05 19:08:20] 
+Email sent successfully
+[2025-03-05 19:08:30] 
+Processing 33 warning breaches
+[2025-03-05 19:08:30] 
+Breach 1: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 2: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 3: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:08:30] 
+Breach 4: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 5: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 6: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 7: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 8: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:08:30] 
+Breach 9: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 10: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 11: Device=JKFL001, Sensor=6, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 12: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 19:08:30] 
+Breach 13: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:08:30] 
+Breach 14: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 15: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 16: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 17: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 18: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 19: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 20: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 21: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 22: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:08:30] 
+Breach 23: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 24: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 25: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 26: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:08:30] 
+Breach 27: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 28: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 29: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 30: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:08:30] 
+Breach 31: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 32: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:30] 
+Breach 33: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:08:30] 
+Inside process_breaches
+[2025-03-05 19:08:30] 
+Sending email to ['maint@jkfenner.com'] with 6 breaches
+[2025-03-05 19:08:30] 
+
+ Inside send_email
+
+[2025-03-05 19:08:33] 
+Email sent successfully
+[2025-03-05 19:08:33] 
+Sending email to ['gurram.balachandrudu@jkfenner.com'] with 2 breaches
+[2025-03-05 19:08:33] 
+
+ Inside send_email
+
+[2025-03-05 19:08:36] 
+Email sent successfully
+[2025-03-05 19:08:46] 
+Processing 27 warning breaches
+[2025-03-05 19:08:46] 
+Breach 1: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:46] 
+Breach 2: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:46] 
+Breach 3: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:08:46] 
+Breach 4: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:08:46] 
+Breach 5: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:46] 
+Breach 6: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:46] 
+Breach 7: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:08:46] 
+Breach 8: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:08:46] 
+Breach 9: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:46] 
+Breach 10: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:46] 
+Breach 11: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:46] 
+Breach 12: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:46] 
+Breach 13: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:08:46] 
+Breach 14: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:46] 
+Breach 15: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:46] 
+Breach 16: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:08:46] 
+Breach 17: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:08:46] 
+Breach 18: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:46] 
+Breach 19: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:46] 
+Breach 20: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 19:08:46] 
+Breach 21: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:08:46] 
+Breach 22: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:46] 
+Breach 23: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:46] 
+Breach 24: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:08:46] 
+Breach 25: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:08:46] 
+Breach 26: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:08:46] 
+Breach 27: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:08:46] 
+Inside process_breaches
+[2025-03-05 19:08:46] 
+Sending email to ['maint@jkfenner.com'] with 5 breaches
+[2025-03-05 19:08:46] 
+
+ Inside send_email
+
+[2025-03-05 19:12:46] 
+Processing 16 warning breaches
+[2025-03-05 19:12:46] 
+Breach 1: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:12:46] 
+Breach 2: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:12:46] 
+Breach 3: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:12:46] 
+Breach 4: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:12:46] 
+Breach 5: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:12:46] 
+Breach 6: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:12:46] 
+Breach 7: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:12:46] 
+Breach 8: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:12:46] 
+Breach 9: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:12:46] 
+Breach 10: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:12:46] 
+Breach 11: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:12:46] 
+Breach 12: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:12:46] 
+Breach 13: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:12:46] 
+Breach 14: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:12:46] 
+Breach 15: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:12:46] 
+Breach 16: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:12:46] 
+Inside process_breaches
+[2025-03-05 19:12:46] 
+Sending email to ['maint@jkfenner.com'] with 4 breaches
+[2025-03-05 19:12:46] 
+
+ Inside send_email
+
+[2025-03-05 19:12:49] 
+Email sent successfully
+[2025-03-05 19:12:49] 
+Sending email to ['gurram.balachandrudu@jkfenner.com'] with 1 breaches
+[2025-03-05 19:12:49] 
+
+ Inside send_email
+
+[2025-03-05 19:13:31] 
+Processing 17 warning breaches
+[2025-03-05 19:13:31] 
+Breach 1: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:13:31] 
+Breach 2: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:13:31] 
+Breach 3: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:13:31] 
+Breach 4: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 19:13:31] 
+Breach 5: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:13:31] 
+Breach 6: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:13:31] 
+Breach 7: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:13:31] 
+Breach 8: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:13:31] 
+Breach 9: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:13:31] 
+Breach 10: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:13:31] 
+Breach 11: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:13:31] 
+Breach 12: Device=JKFL001, Sensor=5, Type=yellow
+[2025-03-05 19:13:31] 
+Breach 13: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-05 19:13:31] 
+Breach 14: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-05 19:13:31] 
+Breach 15: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-05 19:13:31] 
+Breach 16: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-05 19:13:31] 
+Breach 17: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-05 19:13:31] 
+Inside process_breaches
+[2025-03-05 19:13:31] 
+Sending email to ['maint@jkfenner.com'] with 6 breaches
+[2025-03-05 19:13:31] 
+
+ Inside send_email
+
+[2025-03-05 19:13:35] 
+Email sent successfully
+[2025-03-05 19:13:35] 
+Sending email to ['gurram.balachandrudu@jkfenner.com'] with 2 breaches
+[2025-03-05 19:13:35] 
+
+ Inside send_email
+
+[2025-03-05 19:13:38] 
+Email sent successfully
+[2025-03-06 14:56:48] 
+Processing 10 warning breaches
+[2025-03-06 14:56:48] 
+Breach 1: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-06 14:56:48] 
+Breach 2: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-06 14:56:48] 
+Breach 3: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-06 14:56:48] 
+Breach 4: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-06 14:56:48] 
+Breach 5: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-06 14:56:48] 
+Breach 6: Device=JKFL001, Sensor=9, Type=orange
+[2025-03-06 14:56:48] 
+Breach 7: Device=JKFL001, Sensor=7, Type=yellow
+[2025-03-06 14:56:48] 
+Breach 8: Device=JKFL001, Sensor=2, Type=orange
+[2025-03-06 14:56:48] 
+Breach 9: Device=JKFL001, Sensor=3, Type=yellow
+[2025-03-06 14:56:48] 
+Breach 10: Device=JKFL001, Sensor=9, Type=yellow
+[2025-03-06 14:56:48] 
+Inside process_breaches
+[2025-03-06 14:56:48] 
+Sending email to ['maint@jkfenner.com'] with 5 breaches
+[2025-03-06 14:56:48] 
+
+ Inside send_email
+
+[2025-03-06 14:56:52] 
+Email sent successfully
+[2025-03-06 14:56:52] 
+Sending email to ['gurram.balachandrudu@jkfenner.com'] with 2 breaches
+[2025-03-06 14:56:52] 
+
+ Inside send_email
+
+[2025-03-06 14:56:56] 
+Email sent successfully
