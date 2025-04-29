@@ -2,8 +2,8 @@
 import os
 from dotenv import load_dotenv
 
-# Load environment variables
-load_dotenv('/home/suri/VSCode/klvinai/SentinelSuite/config/.env')
+# Load .env from the current directory (config)
+load_dotenv(os.path.join(os.path.dirname(__file__), '.env'))
 
 
 # Service configuration
