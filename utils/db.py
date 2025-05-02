@@ -52,27 +52,25 @@ def insert_data(device_id, time, readings):
     conn.close()
 
 
-# Fetch email addresses based on threshold level
-# def get_emails(device_id, threshold_type):
-#     conn = get_connection_pool().getconn()
-#     cursor = conn.cursor()
-#     cursor.execute(
-#         "SELECT yellow_email, orange_email, red_email FROM devices WHERE device_id = %s",
-#         (device_id,),
-#     )
-#
-#     result = cursor.fetchall()[0]
-#     result = list(list(single_result[1:-1].split(",")) for single_result in result)
-#     if threshold_type == "yellow":
-#         return [result[0]]  # Yellow (Threshold 1)
-#     elif threshold_type == "orange":
-#         return result[:2]  # Orange (Threshold 2)
-#     else:
-#         return result  # Red (Threshold 3)
-#
-
+#Fetch email addresses based on threshold level
 def get_emails(device_id, threshold_type):
-    return "sudhamshusuri.2015@gmail.com"
+    conn = get_connection_pool().getconn()
+    cursor = conn.cursor()
+    cursor.execute(
+        "SELECT yellow_email, orange_email, red_email FROM devices WHERE device_id = %s",
+        (device_id,),
+    )
+
+    result = cursor.fetchall()[0]
+    result = list(list(single_result[1:-1].split(",")) for single_result in result)
+    if threshold_type == "yellow":
+        return [result[0]]  # Yellow (Threshold 1)
+    elif threshold_type == "orange":
+        return result[:2]  # Orange (Threshold 2)
+    else:
+        return result  # Red (Threshold 3)
+
+
 
 # Fetch factory, zone, and machine names
 def get_entity_names(device_id):
