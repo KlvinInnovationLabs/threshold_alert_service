@@ -69,6 +69,8 @@ def check_thresholds_against_data(
         sensor_id = sensor_reading["sensor_id"]
         sensor_value = float(sensor_reading["value"])
 
+        if sensor_id not in ['1', '2', '3']:
+            continue
         # Get thresholds for this device/sensor
         try:
             threshold_yellow, threshold_orange, threshold_red = get_thresholds(
